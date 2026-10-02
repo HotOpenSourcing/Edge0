@@ -31,3 +31,5 @@ artifacts/
 # Bench / runtime logs
 *.log
 python/scripts/alignment_results.json
+config.bat
+node_modules
